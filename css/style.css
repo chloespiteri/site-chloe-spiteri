@@ -1,0 +1,68 @@
+
+
+@import url("COMPOSANTE/container.css");
+@import url("COMPOSANTE/avatar.css");
+@import url("COMPOSANTE/banner.css");
+@import url("COMPOSANTE/button.css");
+@import url("COMPOSANTE/card.css");
+@import url("COMPOSANTE/navbar.css");
+
+ 
+body { 
+background-color: #fff;
+}
+
+h1,h2,h3 {
+font-family:  'PlayFairBlack',sans-serif;
+font-weight: bold;
+text-align: left;
+}
+
+h4 {
+	box-sizing: border-box;
+color: #00a891;
+display: block;
+font-family: 'PlayfairDisplayBlack',sans-serif;
+font-size: 20px;
+font-weight: 400;
+margin-top: 30px;
+position: relative; 
+text-align: left:;
+text-size-adjust: 100%;
+
+}
+
+h5 {
+box-sizing: border-box;
+color: #078c78;
+display: block;
+font-family: 'PlayFairBlack', sans-serif;
+font-size: 16px;
+font-weight: 300;
+margin-top: 30px;
+position: relative; 
+text-align: justify;
+text-size-adjust: 100%;
+
+}
+
+a {
+	front-family: 'Roboto Light';sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+}
+
+p {
+box-sizing: border-box;
+color: #18273b;
+display: block;
+font-family: 'RobotoRegular', sans-serif;
+font-size: 14px;
+font-weight: 400;
+margin-top: 30px;
+position: relative; 
+text-align:justify;:;
+text-size-adjust: 100%;
+
+
+}

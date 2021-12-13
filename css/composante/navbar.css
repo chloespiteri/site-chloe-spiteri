@@ -1,0 +1,30 @@
+.navbar{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	flex-grow: 1;
+	padding: 24px;
+	background-color: #F7F7F7;
+}
+
+.navbar a {
+	font-family: 'PlayFairBlack',sans-serif;
+	font-weight: 400;
+	text-decoration: none;
+	color: white;
+	font-size: 20px;
+	padding:  12px 32px;
+	background-color: #00a891;
+	border-radius:  8px;
+
+
+}
+
+.navbar a:hover {
+	font-size: 24px;
+	padding: 8px 28px;
+	background-color: #00a891
+	border-radius: 8px;
+	color: white;
+	transition:  0.5s;
+}

@@ -1,0 +1,25 @@
+.banner {
+	background-image: url(../../images/mi.jpg);
+	color: white;
+	padding:  150px 0px;
+	background-size: cover;
+	background-position: center;
+
+	}
+
+	.banner h1 {
+    font-size: 60px
+    color: #f8f9fa;
+    font-family: 'PlayFairBlack',sans-serif;
+    margin-top: 70px;
+	}
+
+	.banner h2 {
+		font-siez: 40px;
+		font-family: 'PlayFairBlack',sans-serif;
+		font-weight: lighter;
+		opacity: 2.2;
+		margin-bottom: 50px;
+		text-align: left;
+	}
+
